@@ -1,3 +1,5 @@
 assume this is a sign in page
 
-adding some more contents in sign in page
+adding some more contents in sign in page.
+
+improving the signin page with some updations in UI.
